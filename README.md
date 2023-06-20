@@ -4,9 +4,6 @@
 
 # emailvalidation-perl - Email Validation & Verification API
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/everapi/emailvalidation-perl.svg?style=flat-square)](https://packagist.org/packages/everapi/emailvalidation-perl)
-[![Total Downloads](https://img.shields.io/packagist/dt/everapi/emailvalidation-perl.svg?style=flat-square)](https://packagist.org/packages/everapi/emailvalidation-perl)
-
 This package is the official Perl wrapper for [emailvalidation.io](https://emailvalidation.io) that aims to make the usage of the API as easy as possible in your project and enables you to verify & validate any email address.
 
 ## Getting started
@@ -30,7 +27,7 @@ use Emailvalidation;
 If you'd like to install from source (not necessary for use in your application), download the source and run the following commands
 
 ```bash
-perl Build.PL
+perl Build.pl
 Build
 Build test
 Build install
