@@ -5,3 +5,6 @@ Build
 MANIFEST.bak
 MYMETA.json
 MYMETA.yml
+*.tar.gz
+META.json
+META.yml

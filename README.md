@@ -28,9 +28,9 @@ If you'd like to install from source (not necessary for use in your application)
 
 ```bash
 perl Build.pl
-Build
-Build test
-Build install
+perl Build
+perl Build test
+perl Build install
 ```
 
 ## Example
