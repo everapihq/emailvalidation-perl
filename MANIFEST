@@ -1,0 +1,5 @@
+app.pl
+Build.PL
+example.pl
+lib/emailvalidation.pm
+MANIFEST			This list of files
